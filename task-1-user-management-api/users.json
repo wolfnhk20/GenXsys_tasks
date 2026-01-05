@@ -1,0 +1,16 @@
+[ {
+  "id" : "ede5973e-cc22-4189-8256-b044f8532813",
+  "name" : "Shreyas",
+  "email" : "shreyas@gmail.com",
+  "age" : 20
+}, {
+  "id" : "6e9ddf4b-caa8-490f-940a-219baca9b86f",
+  "name" : "Ayush",
+  "email" : "ayush@gmail.com",
+  "age" : 20
+}, {
+  "id" : "48138cfd-7c9c-477c-be64-9ee93dec2f25",
+  "name" : "Prajwal",
+  "email" : "prajwal@gmail.com",
+  "age" : 20
+} ]
