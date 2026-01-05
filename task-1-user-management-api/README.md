@@ -2,7 +2,6 @@
 
 A simple and clean **Spring Boot REST API** that manages user data with full CRUD operations.  
 Built using **MVC architecture**, **DTOs**, **validation**, and **JSON file persistence** (no external database needed).  
-Perfect for learning backend development and demonstrating clean code structure in internships or portfolio projects.
 
 ---
 
@@ -79,3 +78,4 @@ com.ayush.user_management_api
 ### **Using Terminal**
 ```bash
 mvn spring-boot:run
+
