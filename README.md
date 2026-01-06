@@ -56,26 +56,26 @@ mvn clean
 mvn spring-boot:run
 ```
 
-## Server will start at:
+### Server will start at:
 ```
 http://localhost:8080
 ```
 
-## Run Using IDE (IntelliJ / Eclipse / VS Code)
+### Run Using IDE (IntelliJ / Eclipse / VS Code)
 
 - Open the user_management_api folder in your IDE
 - Allow Maven to download dependencies
 - Run: UserManagementApiApplication.java
 
-## Server starts at:
+### Server starts at:
 ```
 http://localhost:8080
 ```
 
 ---
 
-### API Testing
-## Use Postman or any REST client.
+## API Testing
+### Use Postman or any REST client.
 
 | Method	| Endpoint	| Description |
 | ------ | -------- | ----------- |
@@ -90,5 +90,5 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-# Ayush Kulal
-# Backend Development Intern – GenXsys
+#### Ayush Kulal
+#### Backend Development Intern – GenXsys
