@@ -90,5 +90,5 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-Ayush Kulal
-Backend Development Intern – GenXsys
+# Ayush Kulal
+# Backend Development Intern – GenXsys
